@@ -16136,3 +16136,6 @@ html[dir=rtl] ._2ICcy:after{
 #main {
     display:none;
 }
+#input-text{
+    font-size: 18px;
+}
