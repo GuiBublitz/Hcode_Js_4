@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-clone-js",
+  "version": "1.0.0",
+  "description": "![WhatsApp Clone](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/whatsapp.jpg?alt=media&token=5fc78e3b-4871-424f-abfa-b765f2515d0c)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiBublitz/whatsapp-clone-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiBublitz/whatsapp-clone-JS/issues"
+  },
+  "homepage": "https://github.com/GuiBublitz/whatsapp-clone-JS#readme",
+  "dependencies": {
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
