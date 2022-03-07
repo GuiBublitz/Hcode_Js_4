@@ -16139,3 +16139,12 @@ html[dir=rtl] ._2ICcy:after{
 #input-text{
     font-size: 18px;
 }
+._2oKVP{
+    display: flex;
+    justify-content: center;
+}
+#picture-camera{
+    height: 100%;
+    width: auto;
+    text-align: center;
+}
